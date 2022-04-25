@@ -13,4 +13,5 @@
         android:layout_marginTop="?attr/actionBarSize"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
         tools:listItem="layout/card_layout"/>
+    <include layout="@layout/fab_add"/>
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
